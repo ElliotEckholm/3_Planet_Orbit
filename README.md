@@ -1,7 +1,7 @@
 # 3 Planet Orbit
 Visualization of 3 Planets Orbiting Each Other using Equations of Motions
 
-![alt text](https://github.com/ElliotEckholm/3_Planet_Orbit/blob/master/Images/orbitClip.gif?raw=true)
+![alt text](https://github.com/ElliotEckholm/3_Planet_Orbit/blob/master/Images/orbitClip.gif)
 
 ## Overview of the Equations of Motions Calculated
 
